@@ -94,4 +94,6 @@ dependencies {
 
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     debugImplementation("androidx.compose.ui:ui-tooling")
+    // Coil
+    implementation("io.coil-kt:coil-compose:2.4.0")
 }
